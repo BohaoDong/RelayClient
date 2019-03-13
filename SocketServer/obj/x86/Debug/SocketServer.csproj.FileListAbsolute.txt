@@ -1,0 +1,7 @@
+F:\vs_Project\SocketClient\SocketServer\bin\Debug\SocketServer.exe
+F:\vs_Project\SocketClient\SocketServer\bin\Debug\SocketServer.pdb
+F:\vs_Project\SocketClient\SocketServer\obj\x86\Debug\SocketClient.Server.resources
+F:\vs_Project\SocketClient\SocketServer\obj\x86\Debug\SocketClient.Properties.Resources.resources
+F:\vs_Project\SocketClient\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.Cache
+F:\vs_Project\SocketClient\SocketServer\obj\x86\Debug\SocketServer.exe
+F:\vs_Project\SocketClient\SocketServer\obj\x86\Debug\SocketServer.pdb

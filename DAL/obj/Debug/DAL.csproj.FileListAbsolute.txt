@@ -1,0 +1,11 @@
+F:\vs_Project\SocketClient\DAL\bin\Debug\DAL.dll
+F:\vs_Project\SocketClient\DAL\bin\Debug\DAL.pdb
+F:\vs_Project\SocketClient\DAL\bin\Debug\DBUtility.dll
+F:\vs_Project\SocketClient\DAL\bin\Debug\Model.dll
+F:\vs_Project\SocketClient\DAL\bin\Debug\DBUtility.pdb
+F:\vs_Project\SocketClient\DAL\bin\Debug\Model.pdb
+F:\vs_Project\SocketClient\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\vs_Project\SocketClient\DAL\obj\Debug\DAL.dll
+F:\vs_Project\SocketClient\DAL\obj\Debug\DAL.pdb
+F:\vs_Project\SocketClient\DAL\bin\Debug\Ulity.dll
+F:\vs_Project\SocketClient\DAL\bin\Debug\Ulity.pdb

@@ -1,0 +1,15 @@
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\FaithProject.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\FaithProject.pdb
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\BLL.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\Model.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\DAL.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\DBUtility.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\BLL.pdb
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\Model.pdb
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\DAL.pdb
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\DBUtility.pdb
+F:\vs_Project\SocketClient\FaithProject\obj\Debug\FaithProject.csprojResolveAssemblyReference.cache
+F:\vs_Project\SocketClient\FaithProject\obj\Debug\FaithProject.dll
+F:\vs_Project\SocketClient\FaithProject\obj\Debug\FaithProject.pdb
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\Ulity.dll
+F:\vs_Project\SocketClient\FaithProject\bin\Debug\Ulity.pdb

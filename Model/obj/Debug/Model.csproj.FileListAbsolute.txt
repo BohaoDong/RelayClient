@@ -1,0 +1,7 @@
+F:\vs_Project\SocketClient\Model\bin\Debug\Model.dll
+F:\vs_Project\SocketClient\Model\bin\Debug\Model.pdb
+F:\vs_Project\SocketClient\Model\obj\Debug\Model.dll
+F:\vs_Project\SocketClient\Model\obj\Debug\Model.pdb
+F:\vs_Project\SocketClient\Model\bin\Debug\Ulity.dll
+F:\vs_Project\SocketClient\Model\bin\Debug\Ulity.pdb
+F:\vs_Project\SocketClient\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

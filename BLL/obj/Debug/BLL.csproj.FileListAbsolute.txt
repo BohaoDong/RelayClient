@@ -1,0 +1,13 @@
+F:\vs_Project\SocketClient\BLL\bin\Debug\BLL.dll
+F:\vs_Project\SocketClient\BLL\bin\Debug\BLL.pdb
+F:\vs_Project\SocketClient\BLL\bin\Debug\DAL.dll
+F:\vs_Project\SocketClient\BLL\bin\Debug\Model.dll
+F:\vs_Project\SocketClient\BLL\bin\Debug\DBUtility.dll
+F:\vs_Project\SocketClient\BLL\bin\Debug\DAL.pdb
+F:\vs_Project\SocketClient\BLL\bin\Debug\Model.pdb
+F:\vs_Project\SocketClient\BLL\bin\Debug\DBUtility.pdb
+F:\vs_Project\SocketClient\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\vs_Project\SocketClient\BLL\obj\Debug\BLL.dll
+F:\vs_Project\SocketClient\BLL\obj\Debug\BLL.pdb
+F:\vs_Project\SocketClient\BLL\bin\Debug\Ulity.dll
+F:\vs_Project\SocketClient\BLL\bin\Debug\Ulity.pdb

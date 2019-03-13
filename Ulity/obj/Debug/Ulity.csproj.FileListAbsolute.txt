@@ -1,0 +1,4 @@
+F:\vs_Project\SocketClient\Ulity\bin\Debug\Ulity.dll
+F:\vs_Project\SocketClient\Ulity\bin\Debug\Ulity.pdb
+F:\vs_Project\SocketClient\Ulity\obj\Debug\Ulity.dll
+F:\vs_Project\SocketClient\Ulity\obj\Debug\Ulity.pdb

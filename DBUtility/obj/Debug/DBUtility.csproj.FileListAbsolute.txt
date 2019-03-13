@@ -1,0 +1,7 @@
+F:\vs_Project\SocketClient\DBUtility\bin\Debug\DBUtility.dll
+F:\vs_Project\SocketClient\DBUtility\bin\Debug\DBUtility.pdb
+F:\vs_Project\SocketClient\DBUtility\bin\Debug\Model.dll
+F:\vs_Project\SocketClient\DBUtility\bin\Debug\Model.pdb
+F:\vs_Project\SocketClient\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+F:\vs_Project\SocketClient\DBUtility\obj\Debug\DBUtility.dll
+F:\vs_Project\SocketClient\DBUtility\obj\Debug\DBUtility.pdb
